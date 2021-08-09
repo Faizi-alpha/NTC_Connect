@@ -27,7 +27,7 @@ But this assignment is a lot extra than an app. This is an initiative this is ta
 
 <b> • Departments in College:</b>
 - Fragment with Viewpager for both Computer Science and Textile Branch.
-- 
+
 
 ![WhatsApp Image 2021-08-02 at 1 09 15 AM](https://user-images.githubusercontent.com/39314095/128761198-60293e45-f4fb-45d8-ae92-9810c02fbc0a.jpeg)
 
