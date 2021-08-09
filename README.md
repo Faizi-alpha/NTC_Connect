@@ -19,13 +19,13 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
 ![FinalUI_Design](https://user-images.githubusercontent.com/39314095/128759080-d4950a72-2fb9-410f-9ea3-51bf367bdf72.PNG)
 
 
-<b>• The Navigation Menu : </b>
+<h3><b>• The Navigation Menu : </b></h3>
 
 
 ![fragments](https://user-images.githubusercontent.com/39314095/128760586-020632a0-56aa-41b8-82a3-e5f6ec0a1789.PNG)
 
 
-<b> • Departments in College:</b>
+<h3><b> • Departments in College:</b></h3>
 - Fragment with Viewpager for both Computer Science and Textile Branch.
 
 
@@ -36,20 +36,20 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
 •  The study material module is basically backed up by Firebase.
 •  Notification is backed up by Facebook's Graph API. We have a <b> <a href="https://www.facebook.com/NitraTechnicalCampus/" target="_blank">Facebook Page</a> which is used for posts, events and other activities. We connected the app using Facebook's Graph API with a token of 2 months which can be rengenerated whenever we want.
   
-<b>•  Notification Feed Activity: </b>
+ <h3><b>•  Notification Feed Activity: </b></h3>
   
   
   ![notification feed](https://user-images.githubusercontent.com/39314095/128759382-61198152-d5b8-4433-816f-118f98d2dcd4.PNG)
   
   
-<b> • Study Material : </b>
+<h3><b> • Study Material : </b></h3>
   
-• ![Screenshot 2021-08-02 011659](https://user-images.githubusercontent.com/39314095/128761019-3173f962-ed2d-45fa-ae0f-d7b83d643e59.png)
+![Screenshot 2021-08-02 011659](https://user-images.githubusercontent.com/39314095/128761019-3173f962-ed2d-45fa-ae0f-d7b83d643e59.png)
   
-• ![branch](https://user-images.githubusercontent.com/39314095/128763785-ec89b002-176c-4cf0-a23c-6a5473938eaf.PNG)
+![branch](https://user-images.githubusercontent.com/39314095/128763785-ec89b002-176c-4cf0-a23c-6a5473938eaf.PNG)
   
   
-• ![semester](https://user-images.githubusercontent.com/39314095/128763833-2daf2157-91bd-40cc-94fe-975b7ae2650c.PNG)
+![semester](https://user-images.githubusercontent.com/39314095/128763833-2daf2157-91bd-40cc-94fe-975b7ae2650c.PNG)
  
   
   
@@ -60,7 +60,7 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
 
   
   
-<b> • Since there is nothing “Perfect”, we would like to hear your feedback too, Here is the feedback form:</b>
+<h3><b> • Since there is nothing “Perfect”, we would like to hear your feedback too, Here is the feedback form:</b> </h3>
   
  ![feedbacjk](https://user-images.githubusercontent.com/39314095/128761432-f2329b6e-b592-4b23-8bb5-adfefb9cf3a2.jpeg)
 
