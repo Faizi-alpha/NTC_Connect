@@ -49,12 +49,17 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
   ![Screenshot_1627847067](https://user-images.githubusercontent.com/39314095/128761034-8a0b954e-c0db-4760-9bcd-7b92df4afc82.png)
 
   
-  <b> Since there is nothing “Perfect”, we would like to hear your feedback too, Here is the feedback form:</b>
+  
+  
+  
+  <b> - Since there is nothing “Perfect”, we would like to hear your feedback too, Here is the feedback form:</b>
   
   ![feedbacjk](https://user-images.githubusercontent.com/39314095/128761432-f2329b6e-b592-4b23-8bb5-adfefb9cf3a2.jpeg)
 
+  
+  
  
-  Future Scope:
+  <b> -Future Scope: </b>
   - Login Authentication.
   - Cross Platform, for iOS as well.
   - Application is about to be extended to student-teacher-admin module for management.
