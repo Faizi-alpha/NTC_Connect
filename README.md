@@ -18,15 +18,16 @@ The overall UI of the application looks like this:
 ![FinalUI_Design](https://user-images.githubusercontent.com/39314095/128759080-d4950a72-2fb9-410f-9ea3-51bf367bdf72.PNG)
 
 
-The Navigation Activity :
-![Screenshot_1605177461](https://user-images.githubusercontent.com/39314095/128759310-ed7fae61-9d41-4ec8-add6-2bfe1ce56cc8.png)
+The Navigation Menu :
+![fragments](https://user-images.githubusercontent.com/39314095/128760586-020632a0-56aa-41b8-82a3-e5f6ec0a1789.PNG)
+
 
 
 
 - The study material module is basically backed up by Firebase.
 - Notification is backed up by Facebook's Graph API. We have a <b> <a href="https://www.facebook.com/NitraTechnicalCampus/" target="_blank">Facebook Page</a> which is used for posts, events and other activities. We connected the app using Facebook's Graph API with a token of 2 months which can be rengenerated whenever we want.
   
-  <b> Notification Feed Activity: </b>
+- <b> Notification Feed Activity: </b>
   ![notification feed](https://user-images.githubusercontent.com/39314095/128759382-61198152-d5b8-4433-816f-118f98d2dcd4.PNG)
   
   
