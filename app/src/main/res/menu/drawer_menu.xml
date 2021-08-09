@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_baseline_home_24"
+                android:title="Home" />
+
+            <item
+                android:id="@+id/dep"
+                android:icon = "@drawable/ic_baseline_contacts_24"
+                android:title="Departments"/>
+
+            <item
+                android:id="@+id/tt"
+                android:icon = "@drawable/ic_baseline_library_books_24"
+                android:title="Time Table"/>
+
+            <item
+                android:id="@+id/study_material"
+                android:icon = "@drawable/ic_baseline_menu_book_24"
+                android:title="Study Material"/>
+
+            <item
+                android:id="@+id/location"
+                android:icon = "@drawable/ic_baseline_location_city_24"
+                android:title="Location"/>
+
+
+            <item
+                android:id="@+id/feedback"
+                android:icon = "@drawable/ic_baseline_feedback_24"
+                android:title="Feedback"/>
+
+            <item
+                android:id="@+id/institute"
+                android:icon = "@drawable/ic_baseline_account_balance_24"
+                android:title="About Institute"/>
+
+            <item
+                android:id="@+id/developers"
+                android:icon = "@drawable/ic_baseline_people_alt_24"
+                android:title="About Developers"/>
+
+
+        </group>
+
+</menu>

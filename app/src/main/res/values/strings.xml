@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="branch">
+        <item>"Computer Science"</item>
+        <item>"Textile Technology</item>
+    </string-array>
+
+    <string-array name="Semesters">
+        <item>"First Semester"</item>
+        <item>"Second Semester"</item>
+        <item>"Third Semester"</item>
+        <item>"Fourth Semester"</item>
+        <item>"Fifth Semester"</item>
+        <item>"Sixth Semester"</item>
+        <item>"Seventh Semester"</item>
+        <item>"Eighth Semester"</item>
+    </string-array>
+
+
+    =======
+    <string-array name="Unit">
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Unit 4</item>
+        <item>Lab</item>
+    </string-array>
+
+</resources>
