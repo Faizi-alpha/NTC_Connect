@@ -33,33 +33,41 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
 
 
 
-- The study material module is basically backed up by Firebase.
-- Notification is backed up by Facebook's Graph API. We have a <b> <a href="https://www.facebook.com/NitraTechnicalCampus/" target="_blank">Facebook Page</a> which is used for posts, events and other activities. We connected the app using Facebook's Graph API with a token of 2 months which can be rengenerated whenever we want.
+•  The study material module is basically backed up by Firebase.
+•  Notification is backed up by Facebook's Graph API. We have a <b> <a href="https://www.facebook.com/NitraTechnicalCampus/" target="_blank">Facebook Page</a> which is used for posts, events and other activities. We connected the app using Facebook's Graph API with a token of 2 months which can be rengenerated whenever we want.
   
-- <b> Notification Feed Activity: </b>
+<b>•  Notification Feed Activity: </b>
   
   
   ![notification feed](https://user-images.githubusercontent.com/39314095/128759382-61198152-d5b8-4433-816f-118f98d2dcd4.PNG)
   
   
-  <b> • Study Material : </b>
+<b> • Study Material : </b>
   
-  ![Screenshot 2021-08-02 011659](https://user-images.githubusercontent.com/39314095/128761019-3173f962-ed2d-45fa-ae0f-d7b83d643e59.png)
+• ![Screenshot 2021-08-02 011659](https://user-images.githubusercontent.com/39314095/128761019-3173f962-ed2d-45fa-ae0f-d7b83d643e59.png)
   
-  ![Screenshot_1627847067](https://user-images.githubusercontent.com/39314095/128761034-8a0b954e-c0db-4760-9bcd-7b92df4afc82.png)
+• ![branch](https://user-images.githubusercontent.com/39314095/128763785-ec89b002-176c-4cf0-a23c-6a5473938eaf.PNG)
+  
+  
+• ![semester](https://user-images.githubusercontent.com/39314095/128763833-2daf2157-91bd-40cc-94fe-975b7ae2650c.PNG)
+ 
+  
+  
+  
+
+
+  
 
   
   
+<b> • Since there is nothing “Perfect”, we would like to hear your feedback too, Here is the feedback form:</b>
   
-  
-  <b> - Since there is nothing “Perfect”, we would like to hear your feedback too, Here is the feedback form:</b>
-  
-  ![feedbacjk](https://user-images.githubusercontent.com/39314095/128761432-f2329b6e-b592-4b23-8bb5-adfefb9cf3a2.jpeg)
+ ![feedbacjk](https://user-images.githubusercontent.com/39314095/128761432-f2329b6e-b592-4b23-8bb5-adfefb9cf3a2.jpeg)
 
   
   
  
-  <b> -Future Scope: </b>
+<b>• Future Scope: </b>
   - Login Authentication.
   - Cross Platform, for iOS as well.
   - Application is about to be extended to student-teacher-admin module for management.
@@ -67,7 +75,7 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
   - College Library Integration (Facilities like books available, book issue, book due,etc)
   - App might go for commercialization once the process is complete.
   
-  <b> If interested, please reach out to faizansiddiqui.mail@gmail.com to contribute to this project </b>
+<b> If interested, please reach out to faizansiddiqui.mail@gmail.com to contribute to this project </b>
 
   
   
