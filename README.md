@@ -56,6 +56,7 @@ But this assignment is a lot extra than an app. This is an initiative this is ta
  
   Future Scope:
   - Login Authentication.
+  - Cross Platform, for iOS as well.
   - Application is about to be extended to student-teacher-admin module for management.
   - Attendence and Assignment Systems will be added soon
   - College Library Integration (Facilities like books available, book issue, book due,etc)
