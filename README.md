@@ -75,7 +75,7 @@ But this assignment is a lot extra than an app. This is an <b>initiative</b> thi
   - Application is about to be extended to student-teacher-admin module for management.
   - Attendence and Assignment Systems will be added soon
   - College Library Integration (Facilities like books available, book issue, book due,etc)
-  - App might go for commercialization once the process is complete.
+  - Soon to be available on Google Play.
   
 <b> If interested, please reach out to faizansiddiqui.mail@gmail.com to contribute to this project </b>
 
